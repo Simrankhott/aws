@@ -17,4 +17,4 @@ hooks:
     revisionType: S3
     s3Location:
       bucket: simran90215
-      key: aadiba/demo-app-build.zip
+      key: adiba/demo-app-build.zip
