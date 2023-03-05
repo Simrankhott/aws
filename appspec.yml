@@ -12,9 +12,4 @@ hooks:
     - location: scripts/restart_server.sh
       timeout: 300
       runas: root
-  deployment:
-  revision:
-    revisionType: S3
-    s3Location:
-      bucket: simran90215
-      key: adiba/demo-app-build.zip
+  
